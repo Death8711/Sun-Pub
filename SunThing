@@ -122,7 +122,7 @@ local p = {
     "Astolfo Summer Character"
 }
 local q = {
-    "Halloween Dimension"
+    "Halloween Dimension",
     "Infinite Mode",
     "Titan Dimension",
     "Demon Dimension",
