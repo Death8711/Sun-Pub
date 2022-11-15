@@ -71,6 +71,8 @@ j.Idled:Connect(
 )
 local p = {
     "Sung Jin Woo",
+    "Naruto (Karama Mode)",
+    "Obito",
     "MilimCharacter (Valentine)",
     "Chainsaw Man",
     "Diablo",
@@ -688,6 +690,8 @@ w:AddToggle(
                         wait()
                         local X = {
                             "Sung Jin Woo",
+                            "Naruto (Kurama Mode)",
+                            "Obito",
                             "MilimCharacter (Valentine)",
                             "Chainsaw Man",
                             "Diablo",
