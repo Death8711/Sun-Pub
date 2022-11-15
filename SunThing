@@ -72,6 +72,8 @@ j.Idled:Connect(
 local p = {
     "Sung Jin Woo",
     "MilimCharacter (Valentine)",
+    "Chainsaw Man",
+    "Diablo",
     "Ryuko",
     "Saber Alter Character",
     "Alice",
@@ -687,6 +689,8 @@ w:AddToggle(
                         local X = {
                             "Sung Jin Woo",
                             "MilimCharacter (Valentine)",
+                            "Chainsaw Man",
+                            "Diablo",
                             "Ryuko",
                             "Saber Alter Character",
                             "Alice",
